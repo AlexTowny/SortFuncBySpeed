@@ -39,7 +39,7 @@ n = su.symbols('n')
 # In[8]:
 
 
-expr_arr = ["pow(1/3,n)","17","su.log(n,2)","su.sqrt(n)","n","pow(n,3)","pow(3/2,n)","pow(n,2)"]
+expr_arr = ["pow(1/3,n)","17","su.log(n,2)","su.sqrt(n)","n","pow(n,3)","pow(3/2,n)","pow(n,2)","su.factorial(n)"]
 
 
 # In[9]:

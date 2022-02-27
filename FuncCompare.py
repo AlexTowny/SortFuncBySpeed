@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # FuncFucker3000
+
 
 # *Simple way to compare fast of your functions*
 
